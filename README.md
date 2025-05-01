@@ -1,21 +1,7 @@
 ## Hi there 👋
 
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutaabsoluta&show_icons=true&theme=radical&hide=stars&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=compact&theme=radical&exclude_repo=python-fundamentals)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tutaabsoluta)
-<!--
-**tutaabsoluta/tutaabsoluta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tutaabsoluta&show_icons=true&theme=radical&hide=stars&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=compact&theme=radical&exclude_repo=python-fundamentals" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tutaabsoluta&theme=radical" />
+</p>
