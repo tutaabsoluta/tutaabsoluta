@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutaabsoluta&show_icons=true&theme=radical&hide=stars&hide_rank=true)
+![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutaabsoluta&show_icons=true&theme=radical&hide=stars)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=compact&theme=radical&exclude_repo=python-fundamentals)
 
