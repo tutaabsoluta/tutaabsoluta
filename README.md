@@ -2,7 +2,7 @@
 
 ![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutaabsoluta&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=compact&theme=radical&exclude_repo=python-fundamentals)
 
 
 <!--
