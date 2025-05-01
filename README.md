@@ -4,7 +4,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=compact&theme=radical&exclude_repo=python-fundamentals)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tutaabsoluta)
 <!--
 **tutaabsoluta/tutaabsoluta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
