@@ -4,7 +4,7 @@
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=donut-vertical)](https://github.com/tutaabsoluta/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutaabsoluta&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tutaabsoluta&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
