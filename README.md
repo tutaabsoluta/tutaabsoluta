@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Sergio</h1>
-<p>Web developer specializing in full-stack applications using modern JavaScript technologies</p>
+<p>Software developer specializing in full-stack applications using modern JavaScript technologies and Java</p>
 
 <div>
 
