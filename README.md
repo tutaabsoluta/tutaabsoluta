@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Sergio</h1>
-<p>Software developer specializing in full-stack applications using modern JavaScript technologies and Java</p>
+<p>Software Developer focused on creating scalable web applications with modern JavaScript technologies, emphasizing performance, accessibility, and user-friendly experiences</p>
 
 <div>
 
