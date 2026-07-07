@@ -7,7 +7,7 @@
   <br>
   Rejecting the script, writing my own.
   <br>
-  Ask me about: automation, motos, or why I'm the main character of my own filler arc.
+  Ask me about: automation, bikes, or why I'm the main character of my own filler arc.
 </p>
 
 
