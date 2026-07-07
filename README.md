@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Sergio</h1>
-<p>Software Developer focused on creating scalable web applications with modern JavaScript technologies, emphasizing performance, accessibility, and user-friendly experiences</p>
+<p>Not your usual NPC. Focused (when I'm not distracted) on learning new things everyday, but most of all, enjoying life.</p>
 
 <div>
 
