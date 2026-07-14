@@ -3,7 +3,7 @@
 <p>
   Dev. Cyclist. Life enjoyer.
   <br>
-  Not your usual NPC. I code for fun, and I enjoy the ride.
+  I code for fun, and I enjoy the ride.
   <br>
   Ask me about: automation, bikes, or why I'm the main character of my own filler arc.
 </p>
